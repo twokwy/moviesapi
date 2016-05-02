@@ -28,7 +28,7 @@ to run locally:
 foreman start
 ```
 
-Go to: http://localhost:4000/.
+Go to: http://localhost:5000/ (or whichever port is indicated in the console output)
 
 ## License
 
